@@ -1,0 +1,33 @@
+@import url("components/cards.css");
+
+body {
+  background-color: black;
+}
+
+.container {
+  text-align: center;
+  color: whitesmoke;
+}
+
+h1,h2,h3,h4{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.theme {
+  display : flex;
+  justify-content: space-evenly;
+  a href=
+
+}
+
+.speach {
+  width: 300px;
+}
+
+a {
+  color: whitesmoke;
+}
+
+/*Flex-wrap*/
+/*Flex container {*/
+/*  justify-content: ......;*/
