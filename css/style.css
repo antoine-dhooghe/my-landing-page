@@ -7,6 +7,7 @@ body {
 .container {
   text-align: center;
   color: whitesmoke;
+  padding: 16px;
 }
 
 h1,h2,h3,h4{
@@ -16,7 +17,6 @@ h1,h2,h3,h4{
 .theme {
   display : flex;
   justify-content: space-evenly;
-  a href=
 
 }
 
@@ -26,6 +26,11 @@ h1,h2,h3,h4{
 
 a {
   color: whitesmoke;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+
 }
 
 /*Flex-wrap*/
